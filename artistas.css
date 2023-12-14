@@ -1,0 +1,31 @@
+.barra{
+    display: flex;
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+
+  }
+ .text-center, h2, p{
+color: antiquewhite;
+text-align: center;
+ }
+ .card-body, p{
+color: rgb(58, 64, 247);
+text-align: center;
+ }
+ .container-fluid{
+    background-color: ghostwhite;
+    }
+    
+    #redes ul li {
+        list-style-type: none;
+        margin: 10px;
+    }
+    
+    #redes ul li a {
+        color: rgb(3, 3, 84);
+    }
+    
+    #redes ul li a:hover {
+        color: #1F2124;
+    }

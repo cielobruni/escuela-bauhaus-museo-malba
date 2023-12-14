@@ -1,0 +1,75 @@
+.barra{
+    display: flex;
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+
+  }
+ .carousel-caption h5, .carousel-caption p{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+ }
+ .subtitulos,h2{
+text-align: center;
+color: whitesmoke;
+ }
+ .boton1{
+place-items: center;
+display: inline-block;
+padding: 1em 2em;
+background: black;
+color: white;
+border-radius: 2em;
+border:none;
+outline: 2px solid black;
+outline-offset: 3px
+ }
+ .caja2{
+  text-align: center;
+  padding: 35px;
+}
+.caja1{
+  background-color: rgb(15, 15, 59);
+  color: aliceblue;
+  padding: 35px;
+}
+.caja1 p{
+  padding: 45px;
+  font-size: 17px;
+}
+.caja1 h2{
+  text-align: left;
+padding-left: 50px;
+}
+.caja2{
+  background-color: rgb(15, 15, 59);
+}
+
+.container-fluid{
+  background-color: ghostwhite;
+  } 
+  .boton2{
+display: inline-block;
+padding: 1em 2em;
+background: rgb(252, 251, 251);
+color: rgb(5, 5, 5);
+border-radius: 2em;
+border:none;
+outline: 2px solid black;
+outline-offset: 3px
+  }
+
+  #redes ul li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+#redes ul li a {
+    color: rgb(3, 3, 84);
+}
+
+#redes ul li a:hover {
+    color: #1F2124;
+}
+

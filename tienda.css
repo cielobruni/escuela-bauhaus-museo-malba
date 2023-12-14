@@ -1,0 +1,34 @@
+.barra{
+    display: flex;
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+    }
+    
+    #redes ul li {
+        list-style-type: none;
+        margin: 10px;
+    }
+    
+    #redes ul li a {
+        color: rgb(3, 3, 84);
+    }
+    
+    #redes ul li a:hover {
+        color: #1F2124;
+    }
+    .boton2{
+      display: inline-block;
+      padding: 1em 2em;
+      background: rgb(242, 248, 47);
+      color: rgb(5, 5, 5);
+      border-radius: 2em;
+      border:none;
+      outline: 2px solid black;
+      outline-offset: 3px
+        }
+      

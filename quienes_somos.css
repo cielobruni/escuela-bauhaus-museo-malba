@@ -1,0 +1,43 @@
+.barra{
+    display: flex;
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+
+  }
+  .caja1{
+    background-color: rgb(54, 54, 64);
+  }
+  .caja2{
+    background-color: rgb(54, 54, 64);
+  }
+  .caja2, h2{
+color: cornsilk;
+  }
+
+  .h2, p{
+    font-size: 17px;
+    color: rgb(226, 228, 228);
+  }
+  h2{
+    font-size: 20px;
+    color: rgb(226, 228, 228);
+  }
+  .container-fluid{
+    background-color: ghostwhite;
+    }
+    
+    #redes ul li {
+        list-style-type: none;
+        margin: 10px;
+    }
+    
+    #redes ul li a {
+        color: rgb(3, 3, 84);
+    }
+    
+    #redes ul li a:hover {
+        color: #1F2124;
+    }
+   
+    
